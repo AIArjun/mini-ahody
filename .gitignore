@@ -1,0 +1,22 @@
+# API Keys and Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated drafts (optional - comment out if you want them in repo)
+# draft_*.md
